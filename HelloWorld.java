@@ -6,7 +6,8 @@ public class HelloWorld {
         final int b=20;
         
         System.out.println(b);
-
+      var c=30;
+        System.out.println(c);
     }
 }
  
