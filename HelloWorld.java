@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println(b);
       var c=30;
         System.out.println(c);
+        int [] myArray = {1, 2, 3, 4, 5};
     }
 }
- 
+  
