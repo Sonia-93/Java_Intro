@@ -22,5 +22,8 @@ obj2.brand="Samsung";
 obj2.price=40000;
 obj2.name="Galaxy";
 
+obj1.show();
+obj2.show();
+
     }
 }
