@@ -18,13 +18,7 @@ obj1.brand="Apple";
 obj1.price=50000;
 Mobile.name="iPhone";
    
-Mobile obj2=new Mobile();
-obj2.brand="Samsung";
-obj2.price=40000;
-Mobile.name="Galaxy";
 
-obj1.show();
-obj2.show();
 
     }
 }
