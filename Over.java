@@ -1,0 +1,23 @@
+class A{
+
+public void show(){
+    System.out.println("In  A Show");
+}
+
+public void config(){
+    System.out.println("In Config");
+}
+class B extends A{
+ public void show(){
+    System.out.println("In Show B");
+}
+}
+}
+public class Over{
+    
+    public static void main(String a[]){
+
+  B obj=new B();
+  obj.show();
+    }
+}
