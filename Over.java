@@ -20,5 +20,6 @@ public class Over{
 
   B obj=new B();
   obj.show();
+  obj.config();
     }
 }
