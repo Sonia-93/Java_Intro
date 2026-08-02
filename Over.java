@@ -1,5 +1,6 @@
   import javax.swing.SpringLayout;
   
+  //overriding is how methods have the same name but different implementation in the child class.
  class A{ 
 
 public void show(){ 
