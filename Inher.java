@@ -11,4 +11,4 @@ public class Inher{
    double r5=obj.power(2,3);
    System.out.println(r1 + " " + r2 + " " + r3 + " " + r4 + " " + r5);
     }
-}
+} 
