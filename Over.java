@@ -1,6 +1,8 @@
-class A{
+  import javax.swing.SpringLayout;
+                                          c  
+ lass A{
 
-public void show(){
+public void show(){ 
     System.out.println("In  A Show");
 }
 
