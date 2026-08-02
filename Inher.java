@@ -1,4 +1,14 @@
 
+class A{
+
+}
+class B extends A{
+
+}
+class C extends A{  
+
+}
+
 public class Inher{
 
     public static void main(String a[]){
