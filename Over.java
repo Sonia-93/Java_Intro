@@ -7,10 +7,11 @@ public void show(){
 public void config(){
     System.out.println("In Config");
 }
+
+}
 class B extends A{
  public void show(){
     System.out.println("In Show B");
-}
 }
 }
 public class Over{
