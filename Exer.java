@@ -1,6 +1,7 @@
 
-class A{
-    
+interface A{
+    void show();
+    void config();
 }
 public class Exer {
 
