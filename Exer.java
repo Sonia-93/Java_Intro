@@ -24,5 +24,6 @@ public class Exer {
     //example of downcasting
     BMW obj1=(BMW)obj;
     obj1.drive();
-     
+      
+      
     }}
