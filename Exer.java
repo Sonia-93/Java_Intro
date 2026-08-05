@@ -21,6 +21,8 @@ public class Exer {
     Car obj= new BMW();
     obj.drive();
     obj.playMusic();
-    
+    //example of downcasting
+    BMW obj1=(BMW)obj;
+    obj1.drive();
      
     }}
