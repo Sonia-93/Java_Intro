@@ -1,5 +1,6 @@
 
 interface A{
+    int age=12;
     void show();
     void config();
 }
@@ -21,7 +22,7 @@ public class Exer {
      A obj=new B();
      obj.show();
      obj.config();
-      
+      System.out.println(A.age);
     }} 
 
 
