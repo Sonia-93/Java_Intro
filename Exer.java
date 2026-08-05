@@ -1,5 +1,12 @@
 class Car{
+  
+  public void drive(){
 
+  }
+  public void playMusic(){
+
+  }
+  
 }
 
 
