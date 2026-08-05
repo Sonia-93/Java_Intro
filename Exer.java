@@ -2,11 +2,12 @@ class Car{
   
   public void drive(){
 
+   
   }
   public void playMusic(){
-
+ System.out.println("Playing Music");
   }
-  
+
 }
 
 
