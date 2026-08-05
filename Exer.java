@@ -5,7 +5,7 @@ class A{
         System.out.println("In A show");
         }
 
-     class B{
+     static class B{
   public void config(){
     System.out.println("In B config");
   }
@@ -18,9 +18,10 @@ public class Exer {
     A obj= new A();
     obj.show();
       
-      A.B obj1= new B();
-
-    }}
+      A.B obj1= new A.B();
+      obj1.config();
+      
+    }} 
 
 
 
