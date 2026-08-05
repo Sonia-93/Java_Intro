@@ -19,6 +19,8 @@ public class Exer {
      A obj= (A) new B();
      obj.show1();
  
+    //Downcasting
+    B obj1= (B) obj;
+    obj1.show2();
  
-    }
-}
+    }}
