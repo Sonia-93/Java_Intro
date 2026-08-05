@@ -18,7 +18,7 @@ public class Exer {
 
      public static void main (String a[]){
    
-    Car obj= new Car();
+    Car obj= new BMW();
     obj.drive();
     obj.playMusic();
 
