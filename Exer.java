@@ -1,13 +1,20 @@
 
-class A extends  {
+class Laptop   {
 
+ int price;
+  String brand; 
+
+  public String toString(){
+    return "Hey";
+  }
 }
 
 public class Exer {
 
      public static void main (String a[]){
-     A obj= new A();
-     obj. 
- 
+     Laptop obj= new Laptop();
+     obj. price=2000;
+     obj.brand="Apple";
+ System.out.println(obj);
     }
 }
